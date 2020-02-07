@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 source $(dirname $0)/env.conf
 thread=1
